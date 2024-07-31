@@ -1,4 +1,4 @@
-# Churn-Predictions-by-ANN
+# Bank Customer Churn Prediction-by-ANN
 Getting more understanding about our dataset:
 This is a dataset for a bank which collects information about the customers
 RowNumber: is an irrelevant feature that we are going to get rid of in the future
